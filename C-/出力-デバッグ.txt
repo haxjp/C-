@@ -1,0 +1,14 @@
+﻿'C++.exe' (Win32): 'C:\Users\haxmi\source\repos\C++\Debug\C++.exe' が読み込まれました。シンボルが読み込まれました。
+'C++.exe' (Win32): 'C:\Windows\SysWOW64\ntdll.dll' が読み込まれました。
+'C++.exe' (Win32): 'C:\Windows\SysWOW64\kernel32.dll' が読み込まれました。
+'C++.exe' (Win32): 'C:\Windows\SysWOW64\KernelBase.dll' が読み込まれました。
+'C++.exe' (Win32): 'C:\Windows\SysWOW64\msvcp140d.dll' が読み込まれました。
+'C++.exe' (Win32): 'C:\Windows\SysWOW64\vcruntime140d.dll' が読み込まれました。
+'C++.exe' (Win32): 'C:\Windows\SysWOW64\ucrtbased.dll' が読み込まれました。
+スレッド 0x684 はコード 0 (0x0) で終了しました。
+'C++.exe' (Win32): 'C:\Windows\SysWOW64\kernel.appcore.dll' が読み込まれました。
+'C++.exe' (Win32): 'C:\Windows\SysWOW64\msvcrt.dll' が読み込まれました。
+'C++.exe' (Win32): 'C:\Windows\SysWOW64\rpcrt4.dll' が読み込まれました。
+スレッド 0x30ec はコード 0 (0x0) で終了しました。
+スレッド 0x1d8c はコード 0 (0x0) で終了しました。
+プログラム '[2024] C++.exe' はコード 0 (0x0) で終了しました。
